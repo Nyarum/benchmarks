@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/bench/META"
+  "_build/install/default/lib/bench/dune-package"
+  "_build/install/default/lib/bench/opam"
+]
+bin: [
+  "_build/install/default/bin/bench"
+]

@@ -1,0 +1,4 @@
+(library
+ (name bench)
+ (libraries lwt cohttp cohttp-lwt-unix opium cohttp-eio eio_main))
+
