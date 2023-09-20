@@ -1,8 +1,8 @@
-I'm just started learning OCaml and intrigue how fast it is
+I'm just started learning OCaml and intrigue how fast it is  
 
-So I prepared two examples for Go and OCaml
-Go using std server
-OCaml using eio based on multicore (>5.0 version)
+So I prepared two examples for Go and OCaml  
+Go using std server  
+OCaml using eio based on multicore (>5.0 version)  
 
 Results are:
 
